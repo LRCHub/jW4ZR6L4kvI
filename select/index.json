@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "疾走ドリーマー",
+  "base_artist": "Jams Collection",
+  "createdAt": "2026-02-19T08:04:41.309585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "疾走ドリーマー",
+      "artist": "Jams Collection",
+      "has_synced": false,
+      "path": "select/pl_01_疾走ドリーマー_Jams_Collection.txt"
+    }
+  ]
+}
